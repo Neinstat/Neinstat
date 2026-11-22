@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Neinstat/query-truck-game">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Andre+%F0%9F%91%8B;I+build+a+3D+food-truck+game+that+teaches+SQL;TypeScript+%C2%B7+Three.js+%C2%B7+PostgreSQL+%C2%B7+Python;Learning+to+think+like+a+BI+analyst" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Andre+%F0%9F%91%8B;Building+a+3D+game+that+teaches+SQL;TypeScript+%C2%B7+Three.js+%C2%B7+PostgreSQL;Learning+to+think+like+a+BI+analyst" alt="Typing intro" />
   </a>
 </p>
 
@@ -48,12 +48,6 @@
   <a href="https://github.com/Neinstat/Portfolio-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Neinstat&repo=Portfolio-Website&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Portfolio Website" /></a>
   <a href="https://github.com/bielnzar/spark-dti"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bielnzar&repo=spark-dti&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="spark-dti" /></a>
 </p>
-
-| Project | What it is |
-| --- | --- |
-| 🚚 **[Query Truck](https://github.com/Neinstat/query-truck-game)** | First-person 3D web game for learning SQL — a food truck that parks somewhere new every day; orders are answered with real PostgreSQL in the browser (Three.js · TypeScript · PGlite) |
-| 🌐 **[Portfolio Website](https://github.com/Neinstat/Portfolio-Website)** | My personal portfolio site (JavaScript) |
-| ⚡ **[spark-dti](https://github.com/bielnzar/spark-dti)** | Capstone Project A, team 1 (Python) |
 
 ## 📈 GitHub stats
 
