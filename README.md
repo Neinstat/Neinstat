@@ -1,12 +1,7 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:1f4fa8,100:f4b6a6&height=170&section=header&text=Muhammad%20Andrean%20Rizq%20P&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Muhammad Andrean Rizq P" width="100%" />
-</p>
-
 <!-- Intro: typing text on the left, Nyan Cat on the right -->
 <img align="right" src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" alt="Nyan Cat" height="130" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=F4B6A6&multiline=true&width=460&height=130&lines=Hi%2C+I'm+Andre+%F0%9F%91%8B;Building+games+that+teach+data;TypeScript+%C2%B7+Three.js+%C2%B7+PostgreSQL" alt="Hi, I'm Andre. Building games that teach data." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1200&pause=7000&color=F4B6A6&multiline=true&width=460&height=130&lines=Hi%2C+I'm+Andre+%F0%9F%91%8B;Building+games+that+teach+data;TypeScript+%C2%B7+Three.js+%C2%B7+PostgreSQL" alt="Hi, I'm Andre. Building games that teach data." />
 
 <br clear="both" />
 
