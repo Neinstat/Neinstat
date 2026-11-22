@@ -52,5 +52,5 @@
 ## 📅 Contribution activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neinstat&theme=github-compact&hide_border=true&bg_color=0d1117&color=f4b6a6&line=79a8ff&point=f4b6a6&area=true&area_color=79a8ff&title_color=f4b6a6" alt="Contribution activity graph" />
+  <img src="https://raw.githubusercontent.com/Neinstat/Neinstat/output/contributions.svg" alt="Contributions in the last year" />
 </p>
