@@ -1,7 +1,7 @@
 <!-- Intro: typing text on the left, Nyan Cat on the right -->
-<img align="right" src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" alt="Nyan Cat" height="130" />
+<img align="right" src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" alt="Nyan Cat" width="30%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1000&pause=300&repeat=false&color=F4B6A6&multiline=true&width=460&height=130&lines=Hi%2C+I'm+Andre+%F0%9F%91%8B;Building+games+that+teach+data;TypeScript+%C2%B7+Three.js+%C2%B7+PostgreSQL" alt="Hi, I'm Andre. Building games that teach data." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=1000&pause=300&repeat=false&color=F4B6A6&multiline=true&width=600&height=130&lines=Hi%2C+I'm+Andre+%F0%9F%91%8B;Building+games+that+teach+data;%22God+wouldn't+put+a+dream+in+your+mind;if+you+weren't+able+to+achieve+it.%22+%E2%9C%A8" alt="Hi, I'm Andre. Building games that teach data. God wouldn't put a dream in your mind if you weren't able to achieve it." width="68%" />
 
 <br clear="both" />
 
