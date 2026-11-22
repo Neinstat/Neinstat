@@ -1,7 +1,9 @@
 <!-- Intro: typing text on the left, Nyan Cat on the right -->
-<img align="right" src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" alt="Nyan Cat" width="30%" />
+<img align="right" src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" alt="Nyan Cat" width="28%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=1000&pause=300&repeat=false&color=F4B6A6&multiline=true&width=600&height=130&lines=Hi%2C+I'm+Andre+%F0%9F%91%8B;Building+games+that+teach+data;%22God+wouldn't+put+a+dream+in+your+mind;if+you+weren't+able+to+achieve+it.%22+%E2%9C%A8" alt="Hi, I'm Andre. Building games that teach data. God wouldn't put a dream in your mind if you weren't able to achieve it." width="68%" />
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=1000&pause=300&repeat=false&color=F4B6A6&multiline=true&width=720&height=100&lines=Hi%2C+I'm+Andre;Create+whatever+things+I+find+cool" alt="Hi, I'm Andre. Create whatever things I find cool." width="66%" />
 
 <br clear="both" />
 
