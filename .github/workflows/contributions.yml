@@ -2,7 +2,7 @@ name: Yearly contribution card
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight UTC
+    - cron: "17 * * * *" # every hour, so the count stays close to the profile
   workflow_dispatch:
   push:
     branches: [main]

@@ -76,7 +76,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${
 </style>
 <rect width="100%" height="100%" rx="10" fill="${colors.bg}"/>
 <text x="${left}" y="30" class="t">${cal.totalContributions.toLocaleString("en-US")} contributions in the last year</text>
-<text x="${left}" y="48" class="s">Updated daily · ${new Date().toISOString().slice(0, 10)}</text>
+<text x="${left}" y="48" class="s">Updated ${new Date().toISOString().slice(0, 16).replace("T", " ") + " UTC"}</text>
 ${labels}${days}${cells}${legend}
 </svg>
 `;

@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://about.me/muhammadandrean"><img src="https://img.shields.io/badge/about.me-muhammadandrean-1f4fa8?style=for-the-badge&logo=aboutdotme&logoColor=white&labelColor=161b22" alt="about.me" /></a>
   <a href="https://instagram.com/andreanrizqp"><img src="https://img.shields.io/badge/Instagram-andreanrizqp-f4b6a6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=161b22" alt="Instagram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Neinstat&style=for-the-badge&color=1f4fa8&label=Profile+views" alt="Profile views" />
 </p>
 
 ## 🛠️ Tech stack
